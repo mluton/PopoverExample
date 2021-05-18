@@ -13,6 +13,7 @@
 		1274C2A4264DED2600801BC6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1274C2A2264DED2600801BC6 /* Main.storyboard */; };
 		1274C2A6264DED2700801BC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1274C2A5264DED2700801BC6 /* Assets.xcassets */; };
 		1274C2A9264DED2700801BC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1274C2A7264DED2700801BC6 /* LaunchScreen.storyboard */; };
+		1274C2B1264DF02700801BC6 /* AlbumSelectorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1274C2B0264DF02700801BC6 /* AlbumSelectorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1274C2A5264DED2700801BC6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1274C2A8264DED2700801BC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1274C2AA264DED2700801BC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1274C2B0264DF02700801BC6 /* AlbumSelectorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumSelectorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1274C2A5264DED2700801BC6 /* Assets.xcassets */,
 				1274C2A7264DED2700801BC6 /* LaunchScreen.storyboard */,
 				1274C2AA264DED2700801BC6 /* Info.plist */,
+				1274C2B0264DF02700801BC6 /* AlbumSelectorViewController.swift */,
 			);
 			path = PopoverExample;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				1274C2A1264DED2600801BC6 /* ViewController.swift in Sources */,
 				1274C29D264DED2600801BC6 /* AppDelegate.swift in Sources */,
 				1274C29F264DED2600801BC6 /* SceneDelegate.swift in Sources */,
+				1274C2B1264DF02700801BC6 /* AlbumSelectorViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
